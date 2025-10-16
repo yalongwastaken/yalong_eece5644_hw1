@@ -1,0 +1,4 @@
+**/.DS_Store
+**/*.docx
+**/data/**
+!**/data/README.md
